@@ -61,7 +61,7 @@ pip install pillow numpy
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PRODIGY_CS_02.git
+git clone https://github.com/Prasadsarkate/PRODIGY_CS_02.git
 
 # Navigate to folder
 cd PRODIGY_CS_02
